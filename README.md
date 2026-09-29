@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./imagens/banner.jpg" width="70%" alt="Banner do perfil de Raviel">
-</div>
 
 <br>
 
