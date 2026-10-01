@@ -26,7 +26,7 @@
 
 <h2 align="center">◉ Sobre mim</h2>
 
-<img align="left" src="./imagens/personagem.png" width="300px" alt="Personagem de Raviel">
+<img align="left" src="./imagens/personagem.png" width="250px" alt="Personagem de Raviel">
 
 <div>
   <h3>Olá! Meu nome é Raviel.</h3>
