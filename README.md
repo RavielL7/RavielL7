@@ -2,9 +2,9 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raviel-lima-717991416/?isSelfProfile=true"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/htts.raviel/"><img src="https://img.shields.io/badge/INSTAGRAM-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=ravilima0711@gmail.com&tf=cm"><img src="https://img.shields.io/badge/EMAIL-163B65?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/raviel-lima-717991416/?isSelfProfile=true"><img src="https://img.shields.io/badge/LINKEDIN-8c605f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/htts.raviel/"><img src="https://img.shields.io/badge/INSTAGRAM-cabab5?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=ravilima0711@gmail.com&tf=cm"><img src="https://img.shields.io/badge/EMAIL-5D4D4A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </div>
 
 <br>
@@ -14,10 +14,10 @@
 <h2 align="center">◉ Tecnologias</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-163B65?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-388BFD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-315E8C?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-8c605f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-cabab5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-5D4D4A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-332521?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
 <br>
@@ -26,13 +26,13 @@
 
 <h2 align="center">◉ Sobre mim</h2>
 
-<img align="left" src="./imagens/personagem.jpg" width="230px" alt="Personagem de Raviel">
+<img align="left" src="./imagens/personagem.png" width="300px" alt="Personagem de Raviel">
 
 <div>
   <h3>Olá! Meu nome é Raviel.</h3>
 
   <p>
-    Sou estudante de desenvolvimento de sistemas e estou aprendendo desenvolvimento web, programação e banco de dados.
+    Sou estudante de desenvolvimento de sistemas do Senai e estou aprendendo desenvolvimento web, programação e banco de dados.
   </p>
 
   <p>
@@ -40,7 +40,7 @@
   </p>
 
   <p>
-    Pretendo evoluir para a área de Design UI/UX
+    Pretendo evoluir para a área de Design UI/UX ou Desenvolvedor de IA
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 
 <div>
   <p>
-    Atualmente estou trabalhando em projetos de desenvolvimento web, sistemas em PHP e organização de bancos de dados.
+    Atualmente estou trabalhando em um projeto de criação de aplicativo Wireframe, afim de facilitar a criação deles.
   </p>
 
   <p>
